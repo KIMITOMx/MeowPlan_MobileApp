@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "644585296818",
+    "project_id": "projecttodolist-38cab",
+    "storage_bucket": "projecttodolist-38cab.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644585296818:android:f40a56c27313a546f38aab",
+        "android_client_info": {
+          "package_name": "com.example.meowplan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjMHoj-1RSOI6zmyVHh8TSDyXGYQg99o8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
